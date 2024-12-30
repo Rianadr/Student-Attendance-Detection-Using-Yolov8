@@ -1,0 +1,10 @@
+name: material-tailwind-kit-react
+region: us-east-1
+frontend:
+  path: .
+  publish: dist
+  scripts:
+    deploy:
+      - npm install --legacy-peer-deps
+      - npm run build
+yamlVersion: 2
