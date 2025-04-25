@@ -47,16 +47,6 @@ Buka browser dan masuk ke alamat localhost yang muncul di terminal (contoh: `htt
 
 ---
 
-## 🛠️ Tools & Teknologi
-
-- Python + YOLOv8 (Ultralytics)
-- Node.js (Express.js)
-- Frontend (misalnya Vite/React/Vue, sesuaikan)
-- OpenCV
-- Socket.IO
-
----
-
 ## 📌 Catatan
 
 - Pastikan kamera atau video input sudah tersedia saat menjalankan `main.py`.
