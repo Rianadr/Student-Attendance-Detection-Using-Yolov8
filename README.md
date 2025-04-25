@@ -27,3 +27,43 @@ Pastikan Anda sudah menginstal semua dependency yang diperlukan, baik untuk Pyth
 
 ```bash
 python main.py
+```
+
+### 2. Menjalankan Server Node.js
+
+```bash
+node server.js
+```
+
+### 3. Menjalankan Frontend
+
+```bash
+npm run dev
+```
+
+### 4. Akses Aplikasi
+
+Buka browser dan masuk ke alamat localhost yang muncul di terminal (contoh: `http://localhost:3000`).
+
+---
+
+## 🛠️ Tools & Teknologi
+
+- Python + YOLOv8 (Ultralytics)
+- Node.js (Express.js)
+- Frontend (misalnya Vite/React/Vue, sesuaikan)
+- OpenCV
+- Socket.IO
+
+---
+
+## 📌 Catatan
+
+- Pastikan kamera atau video input sudah tersedia saat menjalankan `main.py`.
+- Periksa konfigurasi port jika terjadi konflik saat menjalankan server.
+
+---
+
+## 👨‍💻 Kontributor
+
+- Rian Adriansyah
